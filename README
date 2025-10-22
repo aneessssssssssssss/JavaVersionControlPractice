@@ -1,9 +1,9 @@
-# Codelab 2 - Documentation Practice
+Codelab 2 - Documentation Practice
 
 Proyek ini dibuat untuk latihan dokumentasi menggunakan README.md
 dalam mata kuliah Pemrograman Lanjut Modul 3.
 
-## Cara Menjalankan Program
+Cara Menjalankan Program
 1. Buka proyek di IntelliJ IDEA.
 2. Jalankan file Main.java.
 3. Program akan menampilkan output berikut:
